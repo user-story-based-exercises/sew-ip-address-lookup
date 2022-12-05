@@ -13,3 +13,11 @@ SEW | CORE | IP Address Lookup
   - the local time, timezone, sunrise, and sunset info for that place,
   - current weather information for that place
 - Possible errors are handled in a meaningful and userfriendly way
+
+### Some Services (feel free to also use any other service)
+- [IP-Adresse, Ort und Zeitzone eines Hosts](https://ip-api.com/docs/api:json)
+- [Sonnenauf- und -untergangszeit](https://sunrise-sunset.org/api)
+- [Wetter](https://openweathermap.org/api)
+- [GeoNames (Volltextsuche, Orte, PLZ, Reverse Geocoding u.v.m.)](http://www.geonames.org/export/)
+- [Zeitzone](https://timezonedb.com/api)
+- [DNS-Abfrage](http://www.dns-lg.com/documentation/)
