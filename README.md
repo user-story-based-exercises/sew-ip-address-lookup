@@ -17,7 +17,7 @@ SEW | CORE | IP Address Lookup
 ### Some Services (feel free to also use any other service)
 - [IP-Adresse, Ort und Zeitzone eines Hosts](https://ip-api.com/docs/api:json)
 - [Sonnenauf- und -untergangszeit](https://sunrise-sunset.org/api)
-- [Wetter](https://openweathermap.org/api)
+- [Wetter](https://open-meteo.com/)
 - [GeoNames (Volltextsuche, Orte, PLZ, Reverse Geocoding u.v.m.)](http://www.geonames.org/export/)
 - [Zeitzone](https://timezonedb.com/api)
 - [DNS-Abfrage](http://www.dns-lg.com/documentation/)
