@@ -1,4 +1,4 @@
-SEW | CORE | IP Address Lookup
+SEW | IP Address Lookup
 
 ## User Story 1
 *As an interested user, I want to know where the location of a server is, so that I know where my data is stored.*
@@ -21,3 +21,7 @@ SEW | CORE | IP Address Lookup
 - [GeoNames (Volltextsuche, Orte, PLZ, Reverse Geocoding u.v.m.)](http://www.geonames.org/export/)
 - [Zeitzone](https://timezonedb.com/api)
 - [DNS-Abfrage](http://www.dns-lg.com/documentation/)
+
+## Skill(s)
+- [JavaScript Promises & async/await](https://my.skilldisplay.eu/en/skill/2990/0)
+- [Consume a REST API with Axios](https://my.skilldisplay.eu/en/skill/1693/0)
