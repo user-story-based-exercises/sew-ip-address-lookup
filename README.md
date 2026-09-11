@@ -13,6 +13,7 @@ SEW | IP Address Lookup
   - the local time, timezone, sunrise, and sunset info for that place,
   - current weather information for that place
 - Possible errors are handled in a meaningful and user-friendly way.
+- All API keys and Base-URLs are stored in an .env file.
 
 ### Some Services (feel free to also use any other service)
 - [IP-Adresse, Ort und Zeitzone eines Hosts](https://ip-api.com/docs/api:json)
