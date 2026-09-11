@@ -8,11 +8,11 @@ SEW | IP Address Lookup
 - An input field for entering the URL is available.
 - Once the input exceeds three characters, the search functionality is triggered.
 - The following information is displayed:
-  - the first ip address of that hostname,
-  - the country, city and geo-coordinates of the ip address,
+  - the first IP address of that host-name,
+  - the country, city and geo-coordinates of the IP address,
   - the local time, timezone, sunrise, and sunset info for that place,
   - current weather information for that place
-- Possible errors are handled in a meaningful and userfriendly way
+- Possible errors are handled in a meaningful and user-friendly way.
 
 ### Some Services (feel free to also use any other service)
 - [IP-Adresse, Ort und Zeitzone eines Hosts](https://ip-api.com/docs/api:json)
